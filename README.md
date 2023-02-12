@@ -11,7 +11,7 @@ I'm Data Analyst & Data Engineer who working with
 
  📫 For My Information 
 
-<a href="https://blog.naver.com/bellepoque7" title="blog.naver.com/bellepoque7" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/bellepoque7" title="blog.naver.com/bellepoque7" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lim-jung-2263a516a" title="www.linkedin.com/in/lim-jung-2263a516a" target="_blank"><img src="https://img.shields.io/badge/Linked-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 ![bellepoque7's github stats](https://github-readme-stats.vercel.app/api?username=bellepoque7&show_icons=true)
