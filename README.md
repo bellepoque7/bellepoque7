@@ -14,8 +14,6 @@ I'm Data Analyst & Data Engineer who working with
 <a href="https://blog.naver.com/bellepoque7" title="blog.naver.com/bellepoque7" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/lim-jung-2263a516a" title="www.linkedin.com/in/lim-jung-2263a516a" target="_blank"><img src="https://img.shields.io/badge/Linked-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bellepoque7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <!--
